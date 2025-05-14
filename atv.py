@@ -141,5 +141,5 @@ while True:
             print("\nOpção inválida. Tente novamente.")
 
     if opcao != 1:
-        time.sleep(5)
+        time.sleep(10)
     os.system("cls || clear")
